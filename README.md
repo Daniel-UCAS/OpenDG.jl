@@ -3,7 +3,7 @@ Next generation high fidelity CFD package with next generation high level scient
 
 - 1 open source
 - 2 Julia based
-- 3 high order DG method
+- 3 high order Discontinuous Galerkin (DG) method
 - 4 uniform CFD/CSD/CAA
 - 5 polyhedral curved mesh
 - 6 low dissipation/dispersion shock capturing scheme
