@@ -4,4 +4,4 @@
 deps/deps.jl
 *.pdf
 *.zip
-references
+refs
