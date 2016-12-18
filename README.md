@@ -17,4 +17,8 @@ Introduction:
 - programming guide
 
 Note:
+<<<<<<< HEAD
 - Gaussian intergral using [FastGaussQuadrature.jl](https://github.com/ajt60gaibb/FastGaussQuadrature.jl)
+=======
+- Gaussian intergral using[FastGaussQuadrature.jl](https://github.com/ajt60gaibb/FastGaussQuadrature.jl)
+>>>>>>> 1656a326892032e8309a6177afe3200fb235f9c6
