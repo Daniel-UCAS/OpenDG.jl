@@ -1,6 +1,6 @@
 # dgCFD.jl
 Next generation high fidelity CFD package with next generation high level scientific computing language- --- dgCFD (Julia) 
-
+Introduction:
 - open source
 - [Julia](http://julialang.org/) based
 - high order Discontinuous Galerkin method (DGM) 
@@ -15,3 +15,6 @@ Next generation high fidelity CFD package with next generation high level scient
 - theory guide
 - tutorial guide(same contents)
 - programming guide
+
+Note:
+- Gaussian intergral using[FastGaussQuadrature.jl](https://github.com/ajt60gaibb/FastGaussQuadrature.jl)
